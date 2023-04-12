@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Samachar-Samudra/static/css/main.abd64e84.css",
+    "main.js": "/Samachar-Samudra/static/js/main.4a285a5f.js",
+    "static/js/787.4c026eef.chunk.js": "/Samachar-Samudra/static/js/787.4c026eef.chunk.js",
+    "index.html": "/Samachar-Samudra/index.html",
+    "main.abd64e84.css.map": "/Samachar-Samudra/static/css/main.abd64e84.css.map",
+    "main.4a285a5f.js.map": "/Samachar-Samudra/static/js/main.4a285a5f.js.map",
+    "787.4c026eef.chunk.js.map": "/Samachar-Samudra/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.4a285a5f.js"
+  ]
+}
